@@ -70,7 +70,7 @@ num1 = 30;  // assignment statment
 int num2 = 40 ;  // declaration and assignment statment
 int sum = num1 + num2; // expression
 
-System.out.println(sum);  // output statements
+System.out.println(""+sum);  // output statements
 
 
 }
